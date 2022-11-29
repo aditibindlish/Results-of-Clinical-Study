@@ -1,2 +1,2 @@
 #Anti cancer drug Clinical Study
-To save weekly challenges week wise here
+249 mice are tested on 10 drug regimens and results are analysed and visualised using Panda and Matplotlib
